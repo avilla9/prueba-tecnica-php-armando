@@ -1,0 +1,15 @@
+{
+    "name": "avilla9/prueba-tecnica-php-armando",
+    "autoload": {
+        "psr-4": {
+            "Avilla9\\PruebaTecnicaPhpArmando\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Armando Villanueva",
+            "email": "armandojvilla9@gmail.com"
+        }
+    ],
+    "require": {}
+}
